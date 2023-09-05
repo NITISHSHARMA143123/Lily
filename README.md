@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="venom Logo"
+https://graph.org/file/e0f508e50384b58cff5f6.jpg
   width="500" 
      height="500" />
 </p>
