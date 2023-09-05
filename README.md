@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="Puii Logo"
+  <img src="./resources/extras/logo_readme.jpg" alt="venom Logo"
   width="500" 
      height="500" />
 </p>
 <h1 align="center">
-  <b>Puii - UserBot</b>
+  <b>venom - UserBot</b>
 </h1>
 <h2 align="center">
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
