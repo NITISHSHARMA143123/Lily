@@ -1,10 +1,15 @@
 
 echo "        
-         ░█▀█░█░█░▀█▀░▀█▀
-         ░█▀▀░█░█░░█░░░█░
-         ░▀░░░▀▀▀░▀▀▀░▀▀▀
+         
+        ╱╱▏┈┈╱╱╱╱▏╱╱▏
+         ▇╱▏┈┈▇▇▇╱▏▇╱▏
+         ▇╱▏▁┈▇╱▇╱▏▇╱▏▁
+         ▇╱╱╱▏▇╱▇╱▏▇╱╱╱
+         ▇▇▇╱┈▇▇▇╱┈▇▇▇╱ 
+         
+         
 
-      Visit @AellyXD for updates!!
+      Visit @dark_world_chatting_club for updates!!
 
 "
 if [ -f .env ] ; then  set -o allexport; source .env; set +o allexport ; fi
